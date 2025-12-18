@@ -8,7 +8,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.35.0
 	github.com/bytedance/sonic v1.14.2
 	github.com/chromedp/chromedp v0.9.5
-	github.com/cloudwego/eino v0.7.0
+	github.com/cloudwego/eino v0.7.11
 	github.com/cloudwego/eino-ext/callbacks/cozeloop v0.1.6
 	github.com/cloudwego/eino-ext/components/document/parser/html v0.0.0-20251117090452-bd6375a0b3cf
 	github.com/cloudwego/eino-ext/components/document/parser/pdf v0.0.0-20251117090452-bd6375a0b3cf
@@ -23,7 +23,7 @@ require (
 	github.com/cloudwego/eino-ext/devops v0.1.8
 	github.com/coze-dev/cozeloop-go v0.1.11
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
-	github.com/eino-contrib/jsonschema v1.0.2
+	github.com/eino-contrib/jsonschema v1.0.3
 	github.com/google/uuid v1.6.0
 	github.com/json-iterator/go v1.1.12
 	github.com/kaptinlin/jsonrepair v0.2.4
